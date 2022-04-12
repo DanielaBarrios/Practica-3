@@ -442,14 +442,6 @@ while True:
         x=cv2.waitKey(0)
         
     if x == ord("d"):
-        division1(ima1,ima2)
-        x=cv2.waitKey(0)
-        
-    if x == ord("d"):
-        division2(ima1,ima2)
-        x=cv2.waitKey(0)
-        
-    if x == ord("d"):
         division3(ima1,ima2)
         x=cv2.waitKey(0)
         
